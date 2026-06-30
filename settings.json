@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "",
-        "",
-        ""
+        "Hello Everybody!",
+        "Hello Everybody!",
+        "Hello Everybody!"
       ]
     },
     "chat-log": true,
